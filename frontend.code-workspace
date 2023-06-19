@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "../old/higher-ed-attendance-parser/frontend"
+		},
+		{
+			"name": "server",
+			"path": "../old/higher-ed-attendance-parser/backend/server"
+		},
+		{
+			"name": "heap 2",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}

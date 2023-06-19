@@ -1,0 +1,90 @@
+L1-12: Final Exam (Game Dev Only),PAP-2022-Fall-L1,Quiz,15,Pre-apprenticeship Level 1,Unpublished
+L1-12: Assignment - Final Presentation,PAP-2022-Fall-L1,Assignment,20,Pre-apprenticeship Level 1,2022-10-05T18:40:14Z
+L1-11: Assignment - Submit Final Version of Game with Purpose,PAP-2022-Fall-L1,Assignment,30,Pre-apprenticeship Level 1,2022-10-05T18:40:14Z
+L1-11: Assignment - Development Progress Check-in #3,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:14Z
+L1-9: Assignment - Development Progress Check-in #2,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:17Z
+L1-8: Assignment - Development Progress Check-in #1,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:17Z
+L1-7: Quiz,PAP-2022-Fall-L1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+L1-6: Quiz,PAP-2022-Fall-L1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+L1-5: Quiz,PAP-2022-Fall-L1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+L1-5: Assignment - Catch Game,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:16Z
+L1-3: Quiz,PAP-2022-Fall-L1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+L1-1: Quiz,PAP-2022-Fall-L1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+L1-7: Assignment - Maze Game,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:17Z
+L1-10: Assignment - User Research,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:13Z
+L1-4: Assignment - Game Design Statement,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:16Z
+L1-2: Assignment - Core Principles,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:16Z
+L1-6: Assignment - Jumping Game,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:17Z
+Assignment - Set up your email and accounts,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:04Z
+Assignment - Digital Literacy Evaluation,PAP-2022-Fall-L1,Assignment,5,Pre-apprenticeship Level 1,2022-10-05T18:40:15Z
+Assignment - Skills Self-Evaluation and Goal Setting,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:12Z
+L1-3: Assignment - Moveable Objects,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:16Z
+L1-1: Assignment - Fill out the DSFA Student profile form,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-12T20:22:56Z
+Create and move the asteroids,PAP-2022-Fall-L1,Assignment,10,Pre-apprenticeship Level 1,2022-10-05T18:40:13Z
+Level Four - Final Presenation Slide Deck,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-28T22:48:24Z
+Level Four - Lesson 9: Quiz,PAP-2022-Fall-L4,Quiz,25,Pre-apprenticeship Level 4,Unpublished
+Level Four- Lesson 9: Assignment 1: Array Iteration,PAP-2022-Fall-L4,Assignment,20,Pre-apprenticeship Level 4,2022-10-07T22:17:26Z
+Level Four Final Project,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-28T23:04:59Z
+Assignment - End-of-course Tech Skills Self-evaluation,PAP-2022-Fall-L4,Assignment,10,Pre-apprenticeship Level 4,2022-10-07T22:17:25Z
+Level Four Lesson 12 Assignment 1: Events Music Project,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-29T22:26:55Z
+Level Four Lesson 11 Assignment 1: Conditional Statements,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-17T23:00:23Z
+Level Four - Lesson 2: Quiz,PAP-2022-Fall-L4,Quiz,0,Pre-apprenticeship Level 4,Unpublished
+Level Four- Lesson 8 Assignment:  Arrays Exercise,PAP-2022-Fall-L4,Assignment,20,Pre-apprenticeship Level 4,2022-10-07T22:17:25Z
+Level Four Lesson 10 Assignment 2: the DOM,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-10T18:12:25Z
+Level Four Lesson 10: Assignment 1: Team Projects Design,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-08T23:07:32Z
+Level Four Lesson 11 Assignment 2: Team Repos & Git Branching,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-11-22T20:40:03Z
+Level Four - Lesson 10 The DOM: Quiz,PAP-2022-Fall-L4,Quiz,10,Pre-apprenticeship Level 4,Unpublished
+Level Four - Lesson 11 Quiz,PAP-2022-Fall-L4,Quiz,10,Pre-apprenticeship Level 4,Unpublished
+Project Research Phase,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-10-27T17:22:58Z
+UX Planning & Brainstorming,PAP-2022-Fall-L4,Assignment,25,Pre-apprenticeship Level 4,2022-10-27T17:19:58Z
+Class Participation:  Stand-Up presentations,PAP-2022-Fall-L4,Assignment,20,Pre-apprenticeship Level 4,2022-10-07T22:17:27Z
+Level 4 Project Planning Phase,PAP-2022-Fall-L4,Assignment,30,Pre-apprenticeship Level 4,2022-10-07T22:17:25Z
+Level Three - Lesson 8 Assignment: Github Portfolio Site,PAP-2023-Winter-L3-G2,Assignment,15,Pre-apprenticeship Level 3,2023-02-14T23:00:04Z
+Level Three- Lesson 6 Assignment: Prototype,PAP-2023-Winter-L3-G2,Assignment,30,Pre-apprenticeship Level 3,2023-01-09T22:23:34Z
+Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,PAP-2023-Winter-L3-G2,Quiz,10,Pre-apprenticeship Level 3,Unpublished
+Level Three- Lesson 3 Assignment: Value Proposition,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:34Z
+Level Three- Lesson 9 Assignment: Make a Survey,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:35Z
+Level Three- Lesson 7 Assignment: Project Plan,PAP-2023-Winter-L3-G2,Assignment,20,Pre-apprenticeship Level 3,2023-01-09T22:23:34Z
+Level Three- Lesson 2 Assignment: Brainstorm,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:33Z
+Level Three- Lesson 5 Assignment: User Journey,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:34Z
+Assignment - Tech Skills Self-evaluation,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:32Z
+Level Three- Lesson 4 Assignment: Website Analysis,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:34Z
+Assignment - Set up your email and accounts,PAP-2023-Winter-L3-G2,Assignment,10,Pre-apprenticeship Level 3,2023-01-09T22:23:27Z
+Level Three- Lesson 3 Assignment: Design Statement,PAP-2023-Winter-L3-G2,Assignment,0,Pre-apprenticeship Level 3,2023-01-09T22:23:33Z
+Level Two - Lesson 14 Assignment: Website Submission,PAP-2022-Summer-L2-G1,Assignment,0,Pre-apprenticeship Level 2,2022-08-19T22:00:36Z
+Level Two - Lesson 13 Assignment: Final Presentation,PAP-2022-Summer-L2-G1,Assignment,0,Pre-apprenticeship Level 2,2022-08-19T21:56:42Z
+Level Two - Lesson 2 Assignment: Value Propositions,PAP-2022-Summer-L2-G1,Assignment,10,Pre-apprenticeship Level 2,2022-07-25T19:16:15Z
+Level Two - Lesson 5 Assignment: My First Page,PAP-2022-Summer-L2-G1,Assignment,10,Pre-apprenticeship Level 2,2022-07-25T19:16:16Z
+Level Two - Lesson 6 Assignment: "My Style" First Page,PAP-2022-Summer-L2-G1,Assignment,10,Pre-apprenticeship Level 2,2022-07-25T19:16:16Z
+Level Two-Lesson 5 Quiz: Intro To HTML,PAP-2022-Summer-L2-G1,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Two-Lesson 12: Final Exam,PAP-2022-Summer-L2-G2,Quiz,40,Pre-apprenticeship Level 2,Unpublished
+Level Two - Lesson 13 Assignment: Final Project,PAP-2022-Summer-L2-G2,Assignment,75,Pre-apprenticeship Level 2,2022-08-01T06:34:24Z
+Level Two - Lesson 8 Assignment: Boxes,PAP-2022-Summer-L2-G2,Assignment,10,Pre-apprenticeship Level 2,2022-07-06T01:47:05Z
+Level Two - Lesson 6 Assignment: "My Style" First Page,PAP-2022-Summer-L2-G2,Assignment,10,Pre-apprenticeship Level 2,2022-07-06T01:47:04Z
+Level Two - Lesson 9 Quiz: Layout,PAP-2022-Summer-L2-G2,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Two - Lesson 7 Assignment: Formatting a Poem,PAP-2022-Summer-L2-G2,Assignment,10,Pre-apprenticeship Level 2,2022-07-06T01:47:05Z
+Level Two - Lesson 8 Quiz: The Box Model,PAP-2022-Summer-L2-G2,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Two - Lesson 7 Quiz: Formatting Text,PAP-2022-Summer-L2-G2,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Two - Lesson 5 Assignment: My First Page,PAP-2022-Summer-L2-G2,Assignment,10,Pre-apprenticeship Level 2,2022-07-06T01:47:04Z
+Level Two - Lesson 6 Quiz: Intro to CSS,PAP-2022-Summer-L2-G2,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Two-Lesson 5 Quiz: Intro To HTML,PAP-2022-Summer-L2-G2,Quiz,10,Pre-apprenticeship Level 2,Unpublished
+Level Three- Lesson 13 Assignment:  Presentation & Live Website,Summer 22 PAC - Group 2 - Level 3,Assignment,120,Pre-apprenticeship Level u,2022-07-19T20:55:41Z
+Level Three- Lesson 7 Assignment: Project Plan,Summer 22 PAC - Group 2 - Level 3,Assignment,10,Pre-apprenticeship Level u,2022-07-19T20:55:42Z
+Level Three- Lesson 6 Assignment: WIreframe/Prototype,Summer 22 PAC - Group 2 - Level 3,Assignment,20,Pre-apprenticeship Level u,2022-07-19T20:55:42Z
+Level Three- Lesson 3 Assignment: Design Statement,Summer 22 PAC - Group 2 - Level 3,Assignment,10,Pre-apprenticeship Level u,2022-07-19T20:55:42Z
+Level Three - Lesson 8: Quiz,Summer 22 PAC - Group 2 - Level 3,Quiz,10,Pre-apprenticeship Level u,Unpublished
+Level Three - Lesson 12: Quiz,Summer 22 PAC - Group 2 - Level 3,Quiz,0,Pre-apprenticeship Level u,Unpublished
+Level Three- Lesson 4 Assignment: Website Analysis,Summer 22 PAC - Group 2 - Level 3,Assignment,10,Pre-apprenticeship Level u,2022-07-19T20:55:42Z
+Level Three- Lesson 2 Assignment: Brainstorm,Summer 22 PAC - Group 2 - Level 3,Assignment,10,Pre-apprenticeship Level u,2022-07-19T20:55:41Z
+Level Four- Lesson 2 Assignment: Create an iframe,PAP-2022-Summer-L4-G3,Assignment,20,Pre-apprenticeship Level 4,2022-07-06T23:52:40Z
+Level Four - Lesson 1: Quiz,PAP-2022-Summer-L4-G3,Quiz,0,Pre-apprenticeship Level 4,Unpublished
+Level Four- Lesson 1 Assignment:  ,PAP-2022-Summer-L4-G3,Assignment,0,Pre-apprenticeship Level 4,2022-07-06T23:52:38Z
+Level One - Lesson 12 Assignment: Final Presentation,PAP-2022-Summer-L1-G1,Assignment,20,Pre-apprenticeship Level 1,2022-07-06T01:46:02Z
+Level One - Lesson 2 Assignment: Core Principles,PAP-2022-Summer-L1-G1,Assignment,0,Pre-apprenticeship Level 1,2022-07-06T01:46:03Z
+Level One - Lesson 13 Assignment: Your HTML,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:02Z
+Level One - Lesson 3 Assignment: Moveable Objects,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:03Z
+Level One - Lesson 3: Quiz ,PAP-2022-Summer-L1-G1,Quiz,5,Pre-apprenticeship Level 1,Unpublished
+Level One - Lesson 5 Assignment: Catch Game,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:04Z
+Level One - Lesson 6 Assignment:Jumping Game,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:04Z
+Level One - Lesson 4 Assignment: Game Design Statement,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:04Z
+Level One - Lesson 7 Assignment: Virtual Pet,PAP-2022-Summer-L1-G1,Assignment,10,Pre-apprenticeship Level 1,2022-07-06T01:46:05Z

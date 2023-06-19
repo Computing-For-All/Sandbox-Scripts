@@ -1,0 +1,451 @@
+Hara Ament,PAP-2022-Fall-L1,L1-12: Final Exam (Game Dev Only),9.75,15,Quiz,2022-12-17T01:49:05Z
+Hoang Le,PAP-2022-Fall-L1,L1-12: Assignment - Final Presentation,ungraded,20,Assignment,2022-12-17T00:39:48Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-12: Assignment - Final Presentation,ungraded,20,Assignment,2022-12-17T00:05:18Z
+Hara Ament,PAP-2022-Fall-L1,L1-12: Assignment - Final Presentation,ungraded,20,Assignment,2022-12-17T00:03:56Z
+Hara Ament,PAP-2022-Fall-L1,L1-11: Assignment - Submit Final Version of Game with Purpose,ungraded,30,Assignment,2022-12-17T00:01:26Z
+Hara Ament,PAP-2022-Fall-L1,L1-11: Assignment - Development Progress Check-in #3,ungraded,10,Assignment,2022-12-16T23:43:37Z
+Hara Ament,PAP-2022-Fall-L1,L1-9: Assignment - Development Progress Check-in #2,ungraded,10,Assignment,2022-12-16T23:03:34Z
+Hara Ament,PAP-2022-Fall-L1,L1-8: Assignment - Development Progress Check-in #1,ungraded,10,Assignment,2022-12-16T23:00:07Z
+Hara Ament,PAP-2022-Fall-L1,L1-7: Quiz,1.333333333333333,5,Quiz,2022-12-16T22:58:28Z
+Hara Ament,PAP-2022-Fall-L1,L1-6: Quiz,3.5,5,Quiz,2022-12-16T22:38:05Z
+Hara Ament,PAP-2022-Fall-L1,L1-5: Quiz,3.8,5,Quiz,2022-12-16T22:12:58Z
+Hara Ament,PAP-2022-Fall-L1,L1-5: Assignment - Catch Game,ungraded,10,Assignment,2022-12-16T22:07:53Z
+Hara Ament,PAP-2022-Fall-L1,L1-3: Quiz,3,5,Quiz,2022-12-16T21:36:25Z
+Hara Ament,PAP-2022-Fall-L1,L1-1: Quiz,5,5,Quiz,2022-12-16T21:29:48Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-12: Final Exam (Game Dev Only),5.583333333333333,15,Quiz,2022-12-10T21:54:10Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-12: Assignment - Final Presentation,ungraded,20,Assignment,2022-12-09T02:36:45Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-11: Assignment - Submit Final Version of Game with Purpose,ungraded,30,Assignment,2022-12-07T01:36:38Z
+Hara Ament,PAP-2022-Fall-L1,L1-7: Assignment - Maze Game,ungraded,10,Assignment,2022-12-02T19:54:15Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-7: Quiz,5,5,Quiz,2022-11-09T02:59:31Z
+Hoang Le,PAP-2022-Fall-L1,L1-7: Quiz,2.5,5,Quiz,2022-11-09T02:49:23Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-7: Quiz,2.67,5,Quiz,2022-11-09T02:35:59Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-9: Assignment - Development Progress Check-in #2,ungraded,10,Assignment,2022-11-30T02:05:59Z
+Hoang Le,PAP-2022-Fall-L1,L1-11: Assignment - Development Progress Check-in #3,ungraded,10,Assignment,2022-11-30T00:54:55Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-11: Assignment - Development Progress Check-in #3,ungraded,10,Assignment,2022-11-30T00:34:32Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-11: Assignment - Development Progress Check-in #3,ungraded,10,Assignment,2022-11-30T00:32:21Z
+Hoang Le,PAP-2022-Fall-L1,L1-8: Assignment - Development Progress Check-in #1,ungraded,10,Assignment,2022-11-23T02:44:00Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-10: Assignment - User Research,ungraded,10,Assignment,2022-11-23T02:07:48Z
+Hara Ament,PAP-2022-Fall-L1,L1-4: Assignment - Game Design Statement,10,10,Assignment,2022-11-18T02:02:29Z
+Hara Ament,PAP-2022-Fall-L1,L1-2: Assignment - Core Principles,10,10,Assignment,2022-11-18T01:58:27Z
+Hara Ament,PAP-2022-Fall-L1,L1-6: Assignment - Jumping Game,ungraded,10,Assignment,2022-11-18T00:48:36Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-8: Assignment - Development Progress Check-in #1,ungraded,10,Assignment,2022-11-16T02:43:58Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-8: Assignment - Development Progress Check-in #1,ungraded,10,Assignment,2022-11-16T02:00:32Z
+Hoang Le,PAP-2022-Fall-L1,Assignment - Set up your email and accounts,10,10,Assignment,2022-11-16T01:37:32Z
+Hara Ament,PAP-2022-Fall-L1,Assignment - Set up your email and accounts,10,10,Assignment,2022-11-16T01:37:30Z
+Hara Ament,PAP-2022-Fall-L1,Assignment - Digital Literacy Evaluation,complete,5,Assignment,2022-11-16T01:37:26Z
+Hoang Le,PAP-2022-Fall-L1,Assignment - Digital Literacy Evaluation,complete,5,Assignment,2022-11-16T01:37:23Z
+Hoang Le,PAP-2022-Fall-L1,Assignment - Skills Self-Evaluation and Goal Setting,10,10,Assignment,2022-11-16T01:36:51Z
+Hara Ament,PAP-2022-Fall-L1,Assignment - Skills Self-Evaluation and Goal Setting,10,10,Assignment,2022-11-16T01:36:44Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-4: Assignment - Game Design Statement,10,10,Assignment,2022-11-11T02:24:41Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-5: Assignment - Catch Game,ungraded,10,Assignment,2022-11-11T01:56:45Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-5: Assignment - Catch Game,10,10,Assignment,2022-11-11T01:48:35Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-3: Assignment - Moveable Objects,8,10,Assignment,2022-11-11T01:51:30Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-7: Assignment - Maze Game,ungraded,10,Assignment,2022-11-11T01:49:09Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-1: Assignment - Fill out the DSFA Student profile form,10,10,Assignment,2022-11-11T01:46:49Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-1: Assignment - Fill out the DSFA Student profile form,10,10,Assignment,2022-11-11T01:45:59Z
+Nguyen Tran,PAP-2022-Fall-L1,Assignment - Set up your email and accounts,10,10,Assignment,2022-11-11T01:41:49Z
+Nguyen Tran,PAP-2022-Fall-L1,Assignment - Skills Self-Evaluation and Goal Setting,10,10,Assignment,2022-11-11T01:41:45Z
+Nguyen Tran,PAP-2022-Fall-L1,Assignment - Digital Literacy Evaluation,complete,5,Assignment,2022-11-11T01:40:09Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-7: Assignment - Maze Game,ungraded,10,Assignment,2022-11-09T02:33:50Z
+Hara Ament,PAP-2022-Fall-L1,L1-3: Assignment - Moveable Objects,10,10,Assignment,2022-11-09T02:11:34Z
+Hoang Le,PAP-2022-Fall-L1,L1-6: Quiz,5,5,Quiz,2022-11-04T16:16:04Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-6: Quiz,5,5,Quiz,2022-11-04T01:28:23Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-6: Assignment - Jumping Game,ungraded,10,Assignment,2022-11-04T01:19:09Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-6: Quiz,2.25,5,Quiz,2022-11-04T01:14:15Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-6: Assignment - Jumping Game,ungraded,10,Assignment,2022-11-04T01:12:47Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-2: Assignment - Core Principles,9,10,Assignment,2022-10-26T01:25:55Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-3: Quiz,4,5,Quiz,2022-11-01T23:45:20Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-3: Quiz,4,5,Quiz,2022-10-26T01:03:51Z
+Hoang Le,PAP-2022-Fall-L1,L1-3: Quiz,4,5,Quiz,2022-11-01T23:52:08Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-5: Quiz,5,5,Quiz,2022-11-02T02:53:01Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-5: Quiz,5,5,Quiz,2022-10-14T01:27:51Z
+Hoang Le,PAP-2022-Fall-L1,L1-5: Quiz,4,5,Quiz,2022-11-02T02:52:35Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-3: Assignment - Moveable Objects,10,10,Assignment,2022-11-01T23:33:04Z
+Hoang Le,PAP-2022-Fall-L1,L1-4: Assignment - Game Design Statement,10,10,Assignment,2022-10-28T00:15:33Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-4: Assignment - Game Design Statement,10,10,Assignment,2022-10-28T00:15:08Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-2: Assignment - Core Principles,9,10,Assignment,2022-10-27T01:55:10Z
+Nguyen Tran,PAP-2022-Fall-L1,L1-1: Quiz,5,5,Quiz,2022-10-26T01:02:58Z
+Hoang Le,PAP-2022-Fall-L1,L1-1: Quiz,5,5,Quiz,2022-10-26T00:59:54Z
+Jonathan Steshuk,PAP-2022-Fall-L1,Create and move the asteroids,10,10,Assignment,2022-10-19T01:27:26Z
+Jonathan Steshuk,PAP-2022-Fall-L1,L1-1: Quiz,5,5,Quiz,2022-10-14T01:19:26Z
+Jonathan Steshuk,PAP-2022-Fall-L1,Assignment - Set up your email and accounts,10,10,Assignment,2022-10-13T23:50:32Z
+Jonathan Steshuk,PAP-2022-Fall-L1,Assignment - Digital Literacy Evaluation,complete,5,Assignment,2022-10-13T23:40:43Z
+Jonathan Steshuk,PAP-2022-Fall-L1,Assignment - Skills Self-Evaluation and Goal Setting,10,10,Assignment,2022-10-13T23:31:14Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-17T01:33:48Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four - Lesson 9: Quiz,19,25,Quiz,2022-12-17T01:31:59Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four- Lesson 9: Assignment 1: Array Iteration,20,20,Assignment,2022-12-14T02:30:12Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-14T01:39:53Z
+Chloe Sow,PAP-2022-Fall-L4,Assignment - End-of-course Tech Skills Self-evaluation,ungraded,10,Assignment,2022-12-14T01:38:16Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-12-14T01:36:54Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,25,25,Assignment,2022-12-14T01:01:20Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four - Lesson 2: Quiz,0,0,Quiz,2022-12-10T04:09:16Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-12-10T02:48:25Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-12-10T04:03:19Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four- Lesson 9: Assignment 1: Array Iteration,20,20,Assignment,2022-12-10T03:16:26Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-10T02:17:20Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Lesson 10: Assignment 1: Team Projects Design,25,25,Assignment,2022-12-10T02:14:11Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four - Lesson 9: Quiz,22,25,Quiz,2022-12-10T02:12:23Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 2: Team Repos & Git Branching,25,25,Assignment,2022-12-10T02:05:00Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four - Lesson 10 The DOM: Quiz,8,10,Quiz,2022-12-10T01:29:54Z
+Chloe Sow,PAP-2022-Fall-L4,Level Four - Lesson 11 Quiz,9,10,Quiz,2022-12-10T01:14:32Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-09T21:23:29Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-09T21:23:19Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-09T21:23:07Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:22:39Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:22:25Z
+Brian Yuan,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:22:19Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:22:00Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:21:52Z
+Tao Hoang,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-09T21:21:45Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-12-09T02:43:59Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 2: Team Repos & Git Branching,25,25,Assignment,2022-12-09T02:42:58Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four - Final Presenation Slide Deck,25,25,Assignment,2022-12-09T00:00:37Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-12-06T03:27:02Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four Final Project,25,25,Assignment,2022-12-06T22:37:36Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four - Lesson 11 Quiz,10,10,Quiz,2022-12-03T02:12:45Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-12-03T02:02:26Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-12-02T00:54:19Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 2: Team Repos & Git Branching,25,25,Assignment,2022-12-02T00:54:07Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-11-30T02:04:27Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-11-30T02:00:22Z
+Tao Hoang,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-11-30T01:52:58Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-11-30T01:49:54Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four Lesson 12 Assignment 1: Events Music Project,25,25,Assignment,2022-11-30T01:49:45Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four - Lesson 10 The DOM: Quiz,8,10,Quiz,2022-11-29T22:01:24Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four - Lesson 10 The DOM: Quiz,7,10,Quiz,2022-11-27T21:33:03Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-11-22T22:42:13Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four - Lesson 9: Quiz,19,25,Quiz,2022-11-22T07:59:59Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-22T05:24:44Z
+Foresty Chan,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,24,25,Assignment,2022-11-18T04:21:02Z
+Tao Hoang,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-18T00:52:37Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four - Lesson 9: Quiz,25,25,Quiz,2022-11-16T02:14:19Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four- Lesson 9: Assignment 1: Array Iteration,20,20,Assignment,2022-11-16T02:29:13Z
+Tao Hoang,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,19,20,Assignment,2022-11-09T02:40:20Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,0,20,Assignment,2022-11-21T21:54:50Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,25,25,Assignment,2022-11-18T06:56:41Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-18T02:52:56Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,24,25,Assignment,2022-11-18T02:38:11Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,22,25,Assignment,2022-11-18T02:31:52Z
+Tao Hoang,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,25,25,Assignment,2022-11-18T02:30:48Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,25,25,Assignment,2022-11-18T02:28:47Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four Lesson 11 Assignment 1: Conditional Statements,25,25,Assignment,2022-11-18T02:27:28Z
+Henry Nguyen,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-18T00:43:48Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four Lesson 10: Assignment 1: Team Projects Design,25,25,Assignment,2022-11-16T03:05:23Z
+Adam Benazouz,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-16T02:17:17Z
+Winnie Tran,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,25,25,Assignment,2022-11-16T02:13:52Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four Lesson 10 Assignment 2: the DOM,23,25,Assignment,2022-11-16T02:10:10Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four- Lesson 9: Assignment 1: Array Iteration,20,20,Assignment,2022-11-16T02:09:46Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-11-11T10:02:48Z
+Gary Hoang,PAP-2022-Fall-L4,Level Four- Lesson 8 Assignment:  Arrays Exercise,20,20,Assignment,2022-11-09T02:29:48Z
+Gary Hoang,PAP-2022-Fall-L4,Project Research Phase,25,25,Assignment,2022-10-28T19:32:15Z
+Gary Hoang,PAP-2022-Fall-L4,UX Planning & Brainstorming,25,25,Assignment,2022-10-28T01:25:47Z
+Tao Hoang,PAP-2022-Fall-L4,UX Planning & Brainstorming,25,25,Assignment,2022-10-28T01:25:47Z
+Chloe Sow,PAP-2022-Fall-L4,UX Planning & Brainstorming,25,25,Assignment,2022-10-28T01:25:47Z
+null,PAP-2022-Fall-L4,Project Research Phase,ungraded,25,Assignment,2022-10-27T17:22:58Z
+Chaker Baloch,PAP-2022-Fall-L4,Level Four - Lesson 2: Quiz,0,0,Quiz,2022-10-24T23:29:53Z
+Gary Hoang,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,18,20,Assignment,2022-10-20T19:29:18Z
+Tao Hoang,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,18,20,Assignment,2022-10-20T19:29:18Z
+Chloe Sow,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,18,20,Assignment,2022-10-20T19:29:18Z
+Adam Benazouz,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,20,20,Assignment,2022-10-20T03:01:49Z
+Winnie Tran,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,20,20,Assignment,2022-10-20T03:01:49Z
+Chaker Baloch,PAP-2022-Fall-L4,Class Participation:  Stand-Up presentations,20,20,Assignment,2022-10-20T03:01:49Z
+Adam Benazouz,PAP-2022-Fall-L4,Level 4 Project Planning Phase,30,30,Assignment,2022-10-20T02:59:44Z
+Winnie Tran,PAP-2022-Fall-L4,Level 4 Project Planning Phase,30,30,Assignment,2022-10-20T02:59:44Z
+Chaker Baloch,PAP-2022-Fall-L4,Level 4 Project Planning Phase,30,30,Assignment,2022-10-20T02:59:44Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three - Lesson 8 Assignment: Github Portfolio Site,ungraded,15,Assignment,2023-03-01T00:58:00Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three - Lesson 8 Assignment: Github Portfolio Site,ungraded,15,Assignment,2023-03-01T00:48:19Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three - Lesson 8 Assignment: Github Portfolio Site,ungraded,15,Assignment,2023-03-01T00:47:46Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,ungraded,30,Assignment,2023-03-01T00:47:26Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,8.5,10,Quiz,2023-02-24T22:55:44Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Value Proposition,10,10,Assignment,2023-02-23T22:44:11Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T01:33:59Z
+Hibak Abdullahi,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,9.5,10,Quiz,2023-02-22T00:42:01Z
+null,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,4.5,10,Quiz,2023-02-22T00:37:30Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,9.5,10,Quiz,2023-02-22T00:34:45Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T00:34:07Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T00:33:45Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T00:32:19Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T00:33:02Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,10,10,Quiz,2023-02-22T00:33:33Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three - Lesson 10: Quiz Course Recap Git-Brainstorm-UX-PM,9,10,Quiz,2023-02-22T00:32:41Z
+null,PAP-2023-Winter-L3-G2,Level Three - Lesson 8 Assignment: Github Portfolio Site,ungraded,15,Assignment,2023-02-17T02:30:20Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T01:18:35Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T01:16:59Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T01:04:55Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T01:03:23Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T00:53:27Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three- Lesson 9 Assignment: Make a Survey,10,10,Assignment,2023-02-17T00:43:19Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:56:04Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:56:03Z
+Hibak Abdullahi,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:56:01Z
+null,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:55:59Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:55:58Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:55:56Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-16T21:55:55Z
+Hibak Abdullahi,PAP-2023-Winter-L3-G2,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2023-02-15T00:49:53Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-10T02:43:44Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-10T01:50:52Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-10T01:28:52Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three- Lesson 7 Assignment: Project Plan,20,20,Assignment,2023-02-10T01:16:56Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,ungraded,30,Assignment,2023-02-08T03:02:01Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,8,10,Assignment,2023-02-08T01:15:56Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Assignment - Tech Skills Self-evaluation,10,10,Assignment,2023-02-08T00:32:46Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:53:28Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:53:24Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:53:20Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:52:42Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:52:26Z
+null,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:52:18Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:51:26Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three- Lesson 6 Assignment: Prototype,30,30,Assignment,2023-02-08T02:37:09Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-08T01:37:45Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-08T01:06:23Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-08T00:52:57Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2023-02-08T00:44:25Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Assignment - Set up your email and accounts,10,10,Assignment,2023-02-08T00:34:26Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2023-02-04T02:25:48Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:25:38Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:25:36Z
+Kenny Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:23:47Z
+Hibak Abdullahi,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:23:45Z
+null,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:23:44Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-04T02:23:41Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Value Proposition,10,10,Assignment,2023-02-04T02:19:13Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Assignment - Set up your email and accounts,10,10,Assignment,2023-02-04T01:57:55Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Assignment - Tech Skills Self-evaluation,10,10,Assignment,2023-02-04T01:52:19Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-04T00:30:20Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Assignment - Set up your email and accounts,10,10,Assignment,2023-02-01T02:33:08Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-03T01:53:12Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-03T01:47:46Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-03T01:42:49Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-03T01:42:43Z
+null,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,ungraded,10,Assignment,2023-02-03T01:30:48Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 5 Assignment: User Journey,10,10,Assignment,2023-02-03T01:30:35Z
+null,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:52:29Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:41:42Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Assignment - Set up your email and accounts,10,10,Assignment,2023-02-01T01:41:27Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Assignment - Set up your email and accounts,10,10,Assignment,2023-02-01T01:38:43Z
+Howard Cheng,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:38:19Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:37:46Z
+Ava Berry,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:37:31Z
+Jian Chen,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:37:28Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:37:08Z
+Gordon Tran,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:32:47Z
+Christy Nguyen,PAP-2023-Winter-L3-G2,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2023-02-01T01:02:49Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Value Proposition,10,10,Assignment,2023-02-01T00:12:26Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Design Statement,0,0,Assignment,2023-02-01T00:11:55Z
+Sahra Mohamad,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Value Proposition,ungraded,10,Assignment,2023-01-31T22:16:54Z
+Akshat Rait,PAP-2023-Winter-L3-G2,Level Three- Lesson 3 Assignment: Value Proposition,ungraded,10,Assignment,2023-01-31T22:17:07Z
+Tinh Lou,PAP-2023-Winter-L3-G2,Assignment - Tech Skills Self-evaluation,10,10,Assignment,2023-01-31T22:17:41Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two - Lesson 14 Assignment: Website Submission,ungraded,0,Assignment,2022-09-01T18:00:32Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two - Lesson 13 Assignment: Final Presentation,ungraded,0,Assignment,2022-09-01T17:59:39Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two - Lesson 2 Assignment: Value Propositions,ungraded,10,Assignment,2022-09-01T17:59:09Z
+Bilal Muhammed,PAP-2022-Summer-L2-G1,Level Two - Lesson 14 Assignment: Website Submission,ungraded,0,Assignment,2022-08-23T19:59:13Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-19T23:57:02Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 14 Assignment: Website Submission,ungraded,0,Assignment,2022-08-19T23:23:29Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 13 Assignment: Final Presentation,ungraded,0,Assignment,2022-08-19T23:20:12Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 2 Assignment: Value Propositions,ungraded,10,Assignment,2022-08-17T21:10:30Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 2 Assignment: Value Propositions,ungraded,10,Assignment,2022-08-11T22:54:32Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:56:23Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:51:33Z
+Bilal Muhammed,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:46:52Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:34:15Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:33:29Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:15:07Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two-Lesson 5 Quiz: Intro To HTML,10,10,Quiz,2022-08-11T20:12:01Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two - Lesson 6 Assignment: "My Style" First Page,ungraded,10,Assignment,2022-08-11T20:10:13Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-10T20:13:23Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-10T20:05:49Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-10T20:03:56Z
+Bilal Muhammed,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-10T20:00:10Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-10T19:58:19Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-09T23:09:38Z
+null,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-09T23:01:46Z
+Gordon Tran,PAP-2022-Summer-L2-G1,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-08-09T22:56:18Z
+null,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,26,40,Quiz,2022-08-03T20:31:44Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-09T20:04:09Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-17T02:14:20Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,ungraded,75,Assignment,2022-08-16T20:07:26Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-09T20:44:22Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-09T20:31:10Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-09T20:27:07Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 13 Assignment: Final Project,75,75,Assignment,2022-08-09T20:01:02Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-08-08T20:52:06Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-08-04T07:39:46Z
+null,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,38,40,Quiz,2022-08-03T21:23:17Z
+null,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,34,40,Quiz,2022-08-03T20:09:51Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,36,40,Quiz,2022-08-03T20:16:22Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,8,10,Quiz,2022-08-03T20:36:32Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,7,10,Assignment,2022-08-03T20:33:04Z
+null,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,38,40,Quiz,2022-08-03T20:29:35Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,36,40,Quiz,2022-08-03T20:13:39Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two-Lesson 12: Final Exam,36,40,Quiz,2022-08-03T20:07:56Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,10,10,Quiz,2022-08-02T06:51:31Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,10,10,Quiz,2022-08-01T23:26:44Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,10,10,Assignment,2022-07-27T20:59:33Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,8,10,Quiz,2022-07-27T20:52:20Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,8,10,Quiz,2022-07-27T20:37:25Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,8,10,Quiz,2022-07-27T20:26:15Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 9 Quiz: Layout,10,10,Quiz,2022-07-27T20:01:58Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,7,10,Assignment,2022-07-27T05:20:51Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-27T04:15:38Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-26T23:15:55Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-26T23:15:38Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,10,10,Quiz,2022-07-26T20:17:13Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,10,10,Quiz,2022-07-26T20:09:23Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-26T20:05:58Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,10,10,Quiz,2022-07-26T20:05:27Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,10,10,Quiz,2022-07-26T20:03:04Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,2,10,Quiz,2022-07-26T20:00:08Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,10,10,Quiz,2022-07-26T20:00:01Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-25T23:06:15Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-25T23:00:30Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Assignment: Boxes,10,10,Assignment,2022-07-25T23:00:22Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 8 Quiz: The Box Model,6,10,Quiz,2022-07-25T22:50:20Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-21T23:34:47Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,10,10,Assignment,2022-07-21T21:43:13Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:22:16Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:16:01Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:10:48Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:09:28Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:08:43Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:07:55Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Quiz: Formatting Text,10,10,Quiz,2022-07-21T20:07:18Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,9,10,Assignment,2022-07-21T01:24:40Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,9,10,Assignment,2022-07-20T23:12:38Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 7 Assignment: Formatting a Poem,10,10,Assignment,2022-07-20T22:53:31Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 5 Assignment: My First Page,9,10,Assignment,2022-07-20T20:54:35Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 5 Assignment: My First Page,10,10,Assignment,2022-07-20T20:39:32Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-20T20:22:44Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-20T20:08:31Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-20T20:06:52Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Assignment: "My Style" First Page,10,10,Assignment,2022-07-20T20:05:39Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,10,10,Quiz,2022-07-19T23:37:29Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,8,10,Quiz,2022-07-19T23:28:11Z
+Chaker Baloch,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,10,10,Quiz,2022-07-19T23:18:21Z
+Adam Benazouz,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,10,10,Quiz,2022-07-19T23:15:05Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,8,10,Quiz,2022-07-19T23:14:39Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,4,10,Quiz,2022-07-19T23:14:11Z
+Tao Hoang,PAP-2022-Summer-L2-G2,Level Two - Lesson 6 Quiz: Intro to CSS,10,10,Quiz,2022-07-19T23:13:39Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 5 Assignment: My First Page,ungraded,10,Assignment,2022-07-19T23:04:29Z
+null,PAP-2022-Summer-L2-G2,Level Two - Lesson 5 Assignment: My First Page,10,10,Assignment,2022-07-18T22:27:14Z
+null,PAP-2022-Summer-L2-G2,Level Two-Lesson 5 Quiz: Intro To HTML,10,10,Quiz,2022-07-18T21:58:35Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,112,120,Assignment,2022-09-13T05:12:13Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,112,120,Assignment,2022-09-13T05:12:13Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,118.9,120,Assignment,2022-08-17T23:20:58Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,115,120,Assignment,2022-08-18T21:26:41Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,115,120,Assignment,2022-08-18T21:26:41Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,108,120,Assignment,2022-08-18T03:06:50Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 13 Assignment:  Presentation & Live Website,108,120,Assignment,2022-08-18T03:06:50Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-16T20:05:36Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-16T20:05:36Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-16T20:05:36Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,17,20,Assignment,2022-08-16T20:33:21Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-12T21:21:07Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-10T21:58:53Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,9,10,Assignment,2022-08-10T21:58:24Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-10T22:42:52Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-17T23:05:16Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-10T21:57:48Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 3 Assignment: Design Statement,10,10,Assignment,2022-08-12T21:19:25Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,8,10,Quiz,2022-08-16T23:44:05Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,8,10,Quiz,2022-08-16T23:41:52Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,8,10,Quiz,2022-08-16T23:30:51Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,8,10,Quiz,2022-08-16T23:29:24Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,10,10,Quiz,2022-08-16T23:29:06Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,10,10,Quiz,2022-08-16T23:28:00Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 12: Quiz,0,0,Quiz,2022-08-16T23:10:31Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three - Lesson 8: Quiz,4,10,Quiz,2022-08-16T23:10:00Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-16T20:22:06Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-16T20:03:44Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-16T20:03:16Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-16T20:03:16Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-16T06:23:37Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-15T21:02:16Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-16T06:22:40Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 6 Assignment: WIreframe/Prototype,20,20,Assignment,2022-08-11T22:42:21Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-11T22:39:06Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 7 Assignment: Project Plan,10,10,Assignment,2022-08-11T22:39:06Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:54:59Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:54:59Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:53:48Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:53:48Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:53:48Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:37:55Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 4 Assignment: Website Analysis,10,10,Assignment,2022-08-10T22:37:55Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:16:35Z
+Adam Benazouz,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:16:35Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:17:53Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:17:53Z
+null,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:17:52Z
+Tao Hoang,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:16:04Z
+Chaker Baloch,Summer 22 PAC - Group 2 - Level 3,Level Three- Lesson 2 Assignment: Brainstorm,10,10,Assignment,2022-08-10T21:16:04Z
+Chloe Sow,PAP-2022-Summer-L4-G3,Level Four- Lesson 2 Assignment: Create an iframe,ungraded,20,Assignment,2022-07-08T23:28:12Z
+Chloe Sow,PAP-2022-Summer-L4-G3,Level Four - Lesson 1: Quiz,0,0,Quiz,2022-07-08T23:25:35Z
+Chloe Sow,PAP-2022-Summer-L4-G3,Level Four- Lesson 1 Assignment:  ,ungraded,0,Assignment,2022-07-08T23:25:14Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 12 Assignment: Final Presentation,ungraded,20,Assignment,2022-09-01T17:58:24Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 2 Assignment: Core Principles,ungraded,0,Assignment,2022-09-01T17:56:42Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 12 Assignment: Final Presentation,ungraded,20,Assignment,2022-08-19T23:18:42Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 2 Assignment: Core Principles,ungraded,0,Assignment,2022-08-19T23:15:56Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:17:58Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:15:43Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:15:30Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:14:28Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:14:27Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:14:22Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 13 Assignment: Your HTML,ungraded,10,Assignment,2022-08-02T23:14:22Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-29T22:16:49Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-29T22:02:08Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-29T21:59:28Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-29T21:58:31Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-29T21:54:59Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-29T21:51:03Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-29T21:32:51Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-20T19:17:57Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-19T22:13:52Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-19T19:54:31Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-18T23:06:51Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-18T21:57:19Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-18T21:57:08Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-18T21:54:35Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 7 Assignment: Virtual Pet,ungraded,10,Assignment,2022-07-18T21:51:11Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-15T22:59:47Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-15T21:31:48Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-15T21:02:20Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-15T21:01:26Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-15T20:37:15Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 2 Assignment: Core Principles,ungraded,0,Assignment,2022-07-15T20:34:20Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-15T20:27:27Z
+Hibak Abdullahi,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T22:11:30Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T21:49:44Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T21:49:05Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T21:48:27Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T21:46:25Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 6 Assignment:Jumping Game,ungraded,10,Assignment,2022-07-14T21:46:11Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T23:01:39Z
+Hibak Abdullahi,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:53:21Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:51:27Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:48:08Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:46:51Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:46:41Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 4 Assignment: Game Design Statement,10,10,Assignment,2022-07-13T22:45:33Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-13T20:42:44Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-13T20:38:04Z
+Hibak Abdullahi,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,4,5,Quiz,2022-07-13T20:38:00Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-13T20:37:19Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-13T20:36:48Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,4,5,Quiz,2022-07-13T20:36:20Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-13T20:35:38Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-13T20:33:03Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-12T23:28:09Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-12T23:24:44Z
+Bilal Muhammed,PAP-2022-Summer-L1-G1,Level One - Lesson 3: Quiz ,5,5,Quiz,2022-07-12T23:20:26Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-12T23:20:00Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-12T23:19:06Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-12T23:00:41Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-12T22:01:08Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-12T21:57:04Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 5 Assignment: Catch Game,10,10,Assignment,2022-07-12T21:56:44Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 2 Assignment: Core Principles,ungraded,0,Assignment,2022-07-12T21:54:05Z
+null,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-12T21:52:33Z
+Gordon Tran,PAP-2022-Summer-L1-G1,Level One - Lesson 3 Assignment: Moveable Objects,ungraded,10,Assignment,2022-07-12T21:46:37Z

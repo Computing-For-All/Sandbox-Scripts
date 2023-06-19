@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Higher Ed Parser</title>
+
+    <link rel="icon"
+        href="https://www.computingforall.org/wp-content/uploads/2019/12/cropped-CFA_1000x1000_px-1-192x192.png"
+        sizes="192x192">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <!-- FontAwesome CSS Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Nav Bar -->
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <div class="container-fluid">
+            <img src="./cfa-192x192.png" alt="CFA Logo" width="32px" height="auto" class="mx-2">
+            <a class="navbar-brand" href="#">Higher Ed Parser</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <!-- <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled">Disabled</a>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container">
+        <div class="bg-light p-5 rounded">
+            <h1>Higher Ed Parser</h1>
+            <p class="lead">The Higher Ed Parser tool is used to collect and parse CFA attendance, grade, and assignment
+                data.<br />Once parsed the output will need to be downloaded then uploaded to
+                Higher Ed.</p>
+            <a class="btn btn-lg btn-primary"
+                href="https://org8690eba6.crm.dynamics.com/main.aspx?appid=321428ab-20a8-ea11-a813-000d3a569a27&pagetype=entitylist&etn=contact&viewid=ae88af10-95cc-e811-a96b-000d3a1c5716&viewType=1039"
+                target="_blank" button"><i class="fa-solid fa-database"></i> Higher Ed DB</a>
+            <a class="btn btn-lg btn-primary"
+                href="https://drive.google.com/drive/u/1/folders/1mrOMhVzuy6LxxXK011BHeHXYPBI9eWCi" target="_blank"
+                button"><i class="fa-brands fa-google-drive"></i> Higher Ed Docs</a>
+            <a class="btn btn-lg btn-primary" href="https://us02web.zoom.us/account/report/user" target="_blank"
+                button"><i class="fa-solid fa-video"></i> Zoom Data</a>
+        </div>
+
+        <!-- Assignments And Grades Row -->
+        <div id="row">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Assignments and Grades
+                        <a data-bs-toggle="collapse" href="#assignmentSettings" role="button" aria-expanded="false"
+                            aria-controls="collapseExample">
+                            <i class="fa-solid fa-pen-to-square text-secondary"></i>
+                        </a>
+                    </h3>
+                    <div class="collapse" id="assignmentSettings">
+                        <div class="card card-body">
+                            <form>
+                                <legend>Assignment & Grade Fields</legend>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlInput1" class="form-label">Google Sheet URL</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                                        placeholder="googlesheet.com/url/replace-this">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlInput2" class="form-label">Course Code</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput2"
+                                        placeholder="PAP-Winter-2023-L2-G2">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlTextarea1" class="form-label">Comma Separated List of
+                                        Students</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                </div>
+                                <!-- REVIEW: Edit button submit logic -->
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body text-center">
+                    <h5 class="card-title"><a href="#" class="btn btn-primary" id="runCanvasScript">Run</a> GET Request to retrieve data,
+                        then parse data to output file.</h5>
+                    <!-- TODO: Add logic for run button + Loading spinner to appear / remove on completion -->
+
+
+                    <!-- Loading Spinner -->
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border invisible" id="gradeLoading" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TODO: Add logic for download button -->
+                <div class="card-footer text-end">
+                    <h3><i class="fa-solid fa-download text-primary"></i></h3>
+                </div>
+            </div>
+        </div>
+
+        <!-- Attendance Row -->
+        <div id="row">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Attendance (Zoom)
+                        <a data-bs-toggle="collapse" href="#attendanceSettings" role="button" aria-expanded="false"
+                            aria-controls="collapseExample">
+                            <i class="fa-solid fa-pen-to-square text-secondary"></i>
+                        </a>
+                    </h3>
+                    <div class="collapse" id="attendanceSettings">
+                        <div class="card card-body">
+                            <form>
+                                <legend>Attendance Fields</legend>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlInput1" class="form-label">Google Sheet URL</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                                        placeholder="googlesheet.com/url/replace-this">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlInput2" class="form-label">Course Code</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput2"
+                                        placeholder="PAP-Winter-2023-L2-G2">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlTextarea1" class="form-label">Comma Separated List of
+                                        Students</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleFormControlInput1" class="form-label">Quarter</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                                        placeholder="googlesheet.com/url/replace-this">
+                                </div>
+                                <!-- REVIEW: Edit button submit logic -->
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body row">
+                    <div class="col">
+                        <h5 class="card-title">Download <a class="btn btn-sm btn-primary"
+                                href="https://us02web.zoom.us/account/report/user" target="_blank" button"><i
+                                    class="fa-solid fa-video"></i> Zoom Data</a></h5>
+
+                        <div class="mb-3 text-center">
+                            <label for="formFileMultiple" class="form-label">
+                                <h3><i class="fa-solid fa-file-circle-plus text-primary"></i></h3>
+                                Select Attendance File(s)
+                            </label>
+                            <div class="input-group">
+
+                                <input class="form-control" type="file" id="formFileMultiple" multiple>
+                                <button class="btn btn-outline-primary" type="button"
+                                    id="attendanceUpload">Upload</button>
+                                <!-- REVIEW: logic for select files -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <!-- TODO: Add logic for run buttons/dropdown? -->
+                        <a href="#" class="btn btn-primary" id="runSpreadsheetScript">Run Spreadsheets</a> <br />
+                        <a href="#" class="btn btn-primary" id="runSyepScript">Run SYEP</a>
+
+                        <div class="dropdown">
+                            <a class="btn btn-outline-secondary dropdown-toggle" href="#" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Select Option
+                            </a>
+
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">All Spreadsheets</a></li>
+                                <li><a class="dropdown-item" href="#">SYEP Only</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer text-end">
+                    <h3><i class="fa-solid fa-download text-primary"></i></h3>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Axios CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+    </script>
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+        integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Custom JS -->
+    <script src="./script.js"></script>
+</body>
+
+</html>
