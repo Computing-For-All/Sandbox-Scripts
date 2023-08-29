@@ -66,6 +66,8 @@ export async function getGradesCSV() {
     return [gradeOutput, assignmentsOutput]
 }
 
+getGradesCSV()
+
 //NOTE - used for debugging. Please comment out this line when not in use!!!!
 //await getGradesCSV()
 
@@ -97,7 +99,7 @@ function appendAssignments(fileName) {
         let type = smolName.includes('quiz') ? 'Quiz' : smolName.includes('exam') ? 'Exam' : 'Practice'
         let maxPoints = Number(data[1][i])
         let level = fileName.charAt(fileName.indexOf('.csv') - 1)
-        let session = fileName.replace('.csv', '').substring(fileName.lastIndexOf('/') + 1)
+        const session = fileName.replace('.csv', '').substring(fileName.indexOf('PAP'))
 
         let course = `Pre-apprenticeship Level ${level}`
 
@@ -117,7 +119,7 @@ function appendAssignments(fileName) {
         return
         }
         
-        output += (`${name},${type},${course},${session},${maxPoints}\n`)
+        output += (`${name},${session},${type},${course},${maxPoints}\n`)
     })
 
     return output   
