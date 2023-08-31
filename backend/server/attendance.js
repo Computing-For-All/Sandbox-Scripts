@@ -4,20 +4,18 @@ import GoogleConnector from './utils/GoogleConnector.js'
 import {isClassDay, mapName} from './utils/utils.js'
 import PATHS from './paths.js'
 
-// TODO Quarterly update: spreadsheetId, groupLevels, gradesPath, potentially numGroups 
-const QUARTER = 'Spring'
+// TODO Quarterly update,QUARTER, YEAR, PROGRAM, LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES 
+const QUARTER = 'Summer'
 const YEAR = '2023'
 const PROGRAM = 'PAP'
-const LEVELS = [1,4,6]
-
-const END_DATE = '3/15/23'
+const LEVELS = ['1-2','2-3','5-6','LM']
 
 const ON_TIME_HOUR = '4'
 const ON_TIME_MINUTES = '15'
 
 let attendancePath = PATHS.ZOOM_DATA
 const secretPath = PATHS.ZOOM_KEY
-const spreadsheetId = '10YeTxdb7ae9h2POr4hrygkk-E59uXWrStBSSGpsOdUk'
+//const spreadsheetId = '10YeTxdb7ae9h2POr4hrygkk-E59uXWrStBSSGpsOdUk'
 let outputPath = PATHS.OUTPUT_PATH+'/attendance.csv'
 let sheetPrefix = 'Group'
 const dataStartRow = 3
@@ -27,7 +25,7 @@ const dataEndRow = 1000
 const SINGLE_FILE_MODE = false
 const SINGLE_FILE_NAME = SINGLE_FILE_MODE ? 'test.csv' : ''
 
-let google = new GoogleConnector(sheetPrefix, spreadsheetId, secretPath)
+//let google = new GoogleConnector(sheetPrefix, spreadsheetId, secretPath)
 
 function getAttendance(groups) {
   const files = fs.readdirSync(attendancePath)
@@ -36,6 +34,8 @@ function getAttendance(groups) {
   let output = ''//'session, attendance date, is present?, student, hours, clock out, clock in\n'
 
   files.forEach((file, index) => {
+
+    console.log(file)
 
     //now loop through each group
 
@@ -165,9 +165,61 @@ function getStatus(clockIn) {
 }
 
 export default async function Attendance() {
-  await google.authenticate()
+  //await google.authenticate()
 
-  let names = await google.getNamesInSheet()
+  //let names = await google.getNamesInSheet()
+  let names = [
+    [
+      'Abdisalam Kadir',
+      'Adreal Manansala', 
+      'Aliyan Muhammad',
+      'Benjamin Madrid',
+      'Cindy Nguyen',
+      'Cynthia Chand',
+      'DjoDjo Kamili', 
+      'Fatima Jawara', 
+      'Mohamed Hassan', 
+      'Henok Mandefro', 
+      'Hiya Mehta',
+      'Kaleb Kabede', 
+      'Kinza Anwar',
+      'Masud Dalmar Dahir',
+      'Mohamed Hassan',
+      'Mozhgan Khairandish', 
+      'Regina Lin',
+      'Samantha Treacy', 
+      'Tanya Jain',
+      'Timothy Hoang', 
+      'Yahya Abdullahi',
+    ],
+    [
+      'Aayan Muhammad',
+      'Farheen Ibrahim',
+      'Imara Wangia', 
+      'Jaden Wong',
+      'Kevin Tran', 
+      'Rameez Hussain',
+      'Vincent Ly',
+      'Xuan Ouyang',
+      'Xiuyi Li',
+      'Rajbir Sandhu',
+    ],
+    [
+      'Elroe S Yayiso',
+      'Gordon Tran',
+      'Jian Fu Chen',
+      'Michelle Dang',
+      'Nikolai Evans',
+    ],
+    [
+      'Chaker Baloch',
+      'Henry Nguyen',
+      'Winnie Tran',
+      'Tao Hoang',
+      'Damien Cruz',
+    ]
+  ]
+  
   return getAttendance(names)
 } 
 
