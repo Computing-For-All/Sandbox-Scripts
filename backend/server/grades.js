@@ -12,16 +12,61 @@ import PATHS from './paths.js'
 
 const secretPath = PATHS.ZOOM_KEY
 const sheetPrefix = 'Group'
-const spreadsheetId = '1Qvt60nLweuR_mhHvVI-hjkjUrHsynQCygfraVK2siDo'
 const gradeOutput = PATHS.OUTPUT_PATH
 
 //analyze the spreadsheet 
-async function readCSV(csvFileName, googleSheetID) {
-    
-    const google = new GoogleConnector(sheetPrefix, googleSheetID, secretPath)
-    await google.authenticate()
-
-    let unparsedStudentsList = await google.getNamesInSheet()
+async function readCSV(csvFileName) {
+    let unparsedStudentsList = [
+        [
+          'Abdisalam Kadir',
+          'Adreal Manansala', 
+          'Aliyan Muhammad',
+          'Benjamin Madrid',
+          'Cindy Nguyen',
+          'Cynthia Chand',
+          'DjoDjo Kamili', 
+          'Fatima Jawara', 
+          'Mohamed Hassan', 
+          'Henok Mandefro', 
+          'Hiya Mehta',
+          'Kaleb Kabede', 
+          'Kinza Anwar',
+          'Masud Dalmar Dahir',
+          'Mohamed Hassan',
+          'Mozhgan Khairandish', 
+          'Regina Lin',
+          'Samantha Treacy', 
+          'Tanya Jain',
+          'Timothy Hoang', 
+          'Yahya Abdullahi',
+        ],
+        [
+          'Aayan Muhammad',
+          'Farheen Ibrahim',
+          'Imara Wangia', 
+          'Jaden Wong',
+          'Kevin Tran', 
+          'Rameez Hussain',
+          'Vincent Ly',
+          'Xuan Ouyang',
+          'Xiuyi Li',
+          'Rajbir Sandhu',
+        ],
+        [
+          'Elroe S Yayiso',
+          'Gordon Tran',
+          'Jian Fu Chen',
+          'Michelle Dang',
+          'Nikolai Evans',
+        ],
+        [
+          'Chaker Baloch',
+          'Henry Nguyen',
+          'Winnie Tran',
+          'Tao Hoang',
+          'Damien Cruz',
+        ]
+      ]
 
     let students = getStudentsFromGroupList(unparsedStudentsList)
 
@@ -50,7 +95,7 @@ export async function getGradesCSV() {
         //NOTE - used for debugging. Please comment out this line when not in use!!!!
         //if(i !== 0) continue
         
-        let data = await readCSV('data\\canvas_data\\'+file, spreadsheetId)
+        let data = await readCSV('data\\canvas_data\\'+file)
       
         gradesOutput += data[0]
         assignmentsOutput += data[1]
@@ -101,7 +146,7 @@ function appendAssignments(fileName) {
         let level = fileName.charAt(fileName.indexOf('.csv') - 1)
         const session = fileName.replace('.csv', '').substring(fileName.indexOf('PAP'))
 
-        let course = `Pre-apprenticeship Level ${level}`
+        //let course = `Pre-apprenticeship Level ${level}`
 
         // let assignmentObject = {
         //   Name: name,
@@ -119,7 +164,7 @@ function appendAssignments(fileName) {
         return
         }
         
-        output += (`${name},${session},${type},${course},${maxPoints}\n`)
+        output += (`${name},${session},${type},${maxPoints}\n`)
     })
 
     return output   
