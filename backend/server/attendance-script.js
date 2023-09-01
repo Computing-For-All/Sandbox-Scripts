@@ -35,7 +35,7 @@ function getAttendance(groups) {
     if(SINGLE_FILE_MODE && file !== SINGLE_FILE_NAME) return
 
     groups.forEach((group, groupI) => {
-      let { day, map } = appendAttendance(ATTENDANCE_PATH + "/" + file, file,group)
+      let { dayOfWeek, date, map } = appendAttendance(ATTENDANCE_PATH + "/" + file, file,group)
       
       let groupNum = groupI+1
 
@@ -44,9 +44,6 @@ function getAttendance(groups) {
         let level = LEVELS[groupI]
         let studentData = map[studentKey]
 
-        let date = day.replace('.csv', '').replace('d', '').replace('-', '/')
-        date += '/'+new Date().getFullYear();
-        
         if(groupNum < 3) {
           let d = date.split('/')
           
@@ -74,6 +71,9 @@ function getAttendance(groups) {
       }
     })
   })
+
+
+  console.log(output)
 
   fs.writeFileSync(outputPath, output)
   return output
@@ -135,7 +135,8 @@ function appendAttendance(fileName, date, studentsInGroup) {
 
 
   return {
-    day: date,
+    dayOfWeek: date,
+    date: rawData[1][2].split(" ")[0],
     map
   }
 }
@@ -157,7 +158,7 @@ function getStatus(clockIn) {
   return "Late"
 }
 
-export default async function Attendance() {
+export default function Attendance() {
   return getAttendance(STUDENTS)
 } 
 

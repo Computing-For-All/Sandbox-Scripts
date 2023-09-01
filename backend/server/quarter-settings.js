@@ -165,7 +165,7 @@ export const FALL_22 = {
           'Gordon Tran',
           'Hibak Abdullahi',
           'Howard Cheng',
-          'Jian Chen',
+          'Jian Fu Chen',
           'Kenny Nguyen',
           'Tinh Lou',
           'Christy Nguyen',
