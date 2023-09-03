@@ -3,19 +3,13 @@ import * as csv from 'csv-string'
 import GoogleConnector from './utils/GoogleConnector.js'
 import {isClassDay, mapName} from './utils/utils.js'
 import PATHS from './paths.js'
+import * as settings from './quarter-settings.js'
 
 // TODO Quarterly update,QUARTER, YEAR, PROGRAM, LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES 
-const QUARTER = 'Summer'
-const YEAR = '2023'
-const PROGRAM = 'PAP'
-const LEVELS = ['1-2','2-3','5-6','LM']
+let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, STUDENTS} = settings.FALL_22
 
-const ON_TIME_HOUR = '4'
-const ON_TIME_MINUTES = '15'
-
-let attendancePath = PATHS.ZOOM_DATA
 const secretPath = PATHS.ZOOM_KEY
-//const spreadsheetId = '10YeTxdb7ae9h2POr4hrygkk-E59uXWrStBSSGpsOdUk'
+const spreadsheetId = '10YeTxdb7ae9h2POr4hrygkk-E59uXWrStBSSGpsOdUk'
 let outputPath = PATHS.OUTPUT_PATH+'/attendance.csv'
 let sheetPrefix = 'Group'
 const dataStartRow = 3
@@ -25,10 +19,9 @@ const dataEndRow = 1000
 const SINGLE_FILE_MODE = false
 const SINGLE_FILE_NAME = SINGLE_FILE_MODE ? 'test.csv' : ''
 
-//let google = new GoogleConnector(sheetPrefix, spreadsheetId, secretPath)
-
 function getAttendance(groups) {
-  const files = fs.readdirSync(attendancePath)
+
+  const files = fs.readdirSync(ATTENDANCE_PATH)
 
   //first make the column names
   let output = ''//'session, attendance date, is present?, student, hours, clock out, clock in\n'
@@ -42,7 +35,7 @@ function getAttendance(groups) {
     if(SINGLE_FILE_MODE && file !== SINGLE_FILE_NAME) return
 
     groups.forEach((group, groupI) => {
-      let { day, map } = appendAttendance(attendancePath + "/" + file, file,group)
+      let { dayOfWeek, date, map } = appendAttendance(ATTENDANCE_PATH + "/" + file, file,group)
       
       let groupNum = groupI+1
 
@@ -51,9 +44,6 @@ function getAttendance(groups) {
         let level = LEVELS[groupI]
         let studentData = map[studentKey]
 
-        let date = day.replace('.csv', '').replace('d', '').replace('-', '/')
-        date += '/'+new Date().getFullYear();
-        
         if(groupNum < 3) {
           let d = date.split('/')
           
@@ -81,6 +71,9 @@ function getAttendance(groups) {
       }
     })
   })
+
+
+  console.log(output)
 
   fs.writeFileSync(outputPath, output)
   return output
@@ -142,7 +135,8 @@ function appendAttendance(fileName, date, studentsInGroup) {
 
 
   return {
-    day: date,
+    dayOfWeek: date,
+    date: rawData[1][2].split(" ")[0],
     map
   }
 }
@@ -164,63 +158,8 @@ function getStatus(clockIn) {
   return "Late"
 }
 
-export default async function Attendance() {
-  //await google.authenticate()
-
-  //let names = await google.getNamesInSheet()
-  let names = [
-    [
-      'Abdisalam Kadir',
-      'Adreal Manansala', 
-      'Aliyan Muhammad',
-      'Benjamin Madrid',
-      'Cindy Nguyen',
-      'Cynthia Chand',
-      'DjoDjo Kamili', 
-      'Fatima Jawara', 
-      'Mohamed Hassan', 
-      'Henok Mandefro', 
-      'Hiya Mehta',
-      'Kaleb Kabede', 
-      'Kinza Anwar',
-      'Masud Dalmar Dahir',
-      'Mohamed Hassan',
-      'Mozhgan Khairandish', 
-      'Regina Lin',
-      'Samantha Treacy', 
-      'Tanya Jain',
-      'Timothy Hoang', 
-      'Yahya Abdullahi',
-    ],
-    [
-      'Aayan Muhammad',
-      'Farheen Ibrahim',
-      'Imara Wangia', 
-      'Jaden Wong',
-      'Kevin Tran', 
-      'Rameez Hussain',
-      'Vincent Ly',
-      'Xuan Ouyang',
-      'Xiuyi Li',
-      'Rajbir Sandhu',
-    ],
-    [
-      'Elroe S Yayiso',
-      'Gordon Tran',
-      'Jian Fu Chen',
-      'Michelle Dang',
-      'Nikolai Evans',
-    ],
-    [
-      'Chaker Baloch',
-      'Henry Nguyen',
-      'Winnie Tran',
-      'Tao Hoang',
-      'Damien Cruz',
-    ]
-  ]
-  
-  return getAttendance(names)
+export default function Attendance() {
+  return getAttendance(STUDENTS)
 } 
 
 Attendance()
