@@ -13,3 +13,6 @@ card-title {
 .btn {
     margin: 2px;
 }
+.fa-download{
+    cursor: pointer;
+}

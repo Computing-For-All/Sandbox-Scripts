@@ -95,23 +95,23 @@ export async function getGradesCSV() {
         //NOTE - used for debugging. Please comment out this line when not in use!!!!
         //if(i !== 0) continue
         
-        let data = await readCSV('data\\canvas_data\\'+file)
+        let data = await readCSV('input\\canvas_archive\\'+file)
       
         gradesOutput += data[0]
         assignmentsOutput += data[1]
         sleep(4000)
     }
 
-    console.log(gradesOutput)
+    // console.log(gradesOutput)
 
     //NOTE - used for debugging. Please comment out this line when not in use!!!!
     fs.writeFileSync(gradeOutput+"/assignment.csv", assignmentsOutput)
     fs.writeFileSync(gradeOutput+"/grades.csv", gradesOutput)
 
-    return [gradeOutput, assignmentsOutput]
+    return [gradesOutput, assignmentsOutput]
 }
-
 getGradesCSV()
+export default getGradesCSV
 
 //NOTE - used for debugging. Please comment out this line when not in use!!!!
 //await getGradesCSV()

@@ -2,7 +2,7 @@ import express from 'express'
 import cors from 'cors'
 // import Attendance from '../template-scripts/attendance.js'
 // import CanvasGrades from '../template-scripts/CanvasGrades.js'
-import { getGradesCSV } from './grades.js'
+import getGradesCSV from './grade-script.js'
 
 const app = express() 
 const port = 5000
