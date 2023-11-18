@@ -3,6 +3,7 @@ import fs from 'fs'
 import * as csv from 'csv-string';
 import { mapName, sleep } from './utils/utils.js'
 import PATHS from './paths.js'
+import * as settings from './quarter-settings.js'
 
 // const QUARTER = 'Winter'
 // const YEAR = '2023'
@@ -14,59 +15,12 @@ const secretPath = PATHS.ZOOM_KEY
 const sheetPrefix = 'Group'
 const gradeOutput = PATHS.OUTPUT_PATH
 
+let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, GRADE_PATH, STUDENTS, SPREADSHEET_ID} = settings.FALL_23
+
+
 //analyze the spreadsheet 
 async function readCSV(csvFileName) {
-    let unparsedStudentsList = [
-        [
-          'Abdisalam Kadir',
-          'Adreal Manansala', 
-          'Aliyan Muhammad',
-          'Benjamin Madrid',
-          'Cindy Nguyen',
-          'Cynthia Chand',
-          'DjoDjo Kamili', 
-          'Fatima Jawara', 
-          'Mohamed Hassan', 
-          'Henok Mandefro', 
-          'Hiya Mehta',
-          'Kaleb Kabede', 
-          'Kinza Anwar',
-          'Masud Dalmar Dahir',
-          'Mohamed Hassan',
-          'Mozhgan Khairandish', 
-          'Regina Lin',
-          'Samantha Treacy', 
-          'Tanya Jain',
-          'Timothy Hoang', 
-          'Yahya Abdullahi',
-        ],
-        [
-          'Aayan Muhammad',
-          'Farheen Ibrahim',
-          'Imara Wangia', 
-          'Jaden Wong',
-          'Kevin Tran', 
-          'Rameez Hussain',
-          'Vincent Ly',
-          'Xuan Ouyang',
-          'Xiuyi Li',
-          'Rajbir Sandhu',
-        ],
-        [
-          'Elroe S Yayiso',
-          'Gordon Tran',
-          'Jian Fu Chen',
-          'Michelle Dang',
-          'Nikolai Evans',
-        ],
-        [
-          'Chaker Baloch',
-          'Henry Nguyen',
-          'Winnie Tran',
-          'Tao Hoang',
-          'Damien Cruz',
-        ]
-      ]
+    let unparsedStudentsList = STUDENTS
 
     let students = getStudentsFromGroupList(unparsedStudentsList)
 
@@ -87,7 +41,7 @@ export async function getGradesCSV() {
     let gradesOutput = ''
     let assignmentsOutput = '' 
 
-    const files = fs.readdirSync(PATHS.CANVAS_DATA)
+    const files = fs.readdirSync(GRADE_PATH)
     for(let i = 0; i < files.length; i++) {
         
         let file = files[i]
@@ -95,8 +49,10 @@ export async function getGradesCSV() {
         //NOTE - used for debugging. Please comment out this line when not in use!!!!
         //if(i !== 0) continue
         
-        let data = await readCSV('input\\canvas_archive\\'+file)
+        let data = await readCSV(GRADE_PATH+file)
       
+
+
         gradesOutput += data[0]
         assignmentsOutput += data[1]
         sleep(4000)
@@ -192,7 +148,7 @@ function appendGrades(fileName, students) {
                 return
             }
 
-            let studentName = mapName(parseNameFromCSV(row[0]), students)
+            let studentName = mapName(students, parseNameFromCSV(row[0]))
 
             if (studentName == null) return
             

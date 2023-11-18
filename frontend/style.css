@@ -16,3 +16,8 @@ card-title {
 .fa-download{
     cursor: pointer;
 }
+.card-footer > a{
+    border: none;
+    background: transparent;
+    font-size: 1.6em;
+}
