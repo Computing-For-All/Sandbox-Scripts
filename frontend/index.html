@@ -58,50 +58,53 @@
                 href="https://cfahelpdesksandbox.crm.dynamics.com/main.aspx?appid=4fdc49ee-ddae-eb11-8236-000d3a5b030a&newWindow=true&pagetype=dashboard&id=551a3d81-8424-ed11-b83e-000d3a8ce2e3&type=system&_canOverride=true"
                 target="_blank"><i class="fa-solid fa-database"></i> Higher Ed DB</a>
             <a class="btn btn-lg btn-primary"
-                href="https://drive.google.com/drive/u/1/folders/1mrOMhVzuy6LxxXK011BHeHXYPBI9eWCi" target="_blank"
-                ><i class="fa-brands fa-google-drive"></i> Higher Ed Docs</a>
-            <a class="btn btn-lg btn-primary" href="https://us02web.zoom.us/account/report/user" target="_blank"
-                ><i class="fa-solid fa-video"></i> Zoom Data</a>
+                href="https://drive.google.com/drive/u/1/folders/1mrOMhVzuy6LxxXK011BHeHXYPBI9eWCi" target="_blank"><i
+                    class="fa-brands fa-google-drive"></i> Higher Ed Docs</a>
+            <a class="btn btn-lg btn-primary" href="https://us02web.zoom.us/account/report/user" target="_blank"><i
+                    class="fa-solid fa-video"></i> Zoom Data</a>
+
+            <!-- Edit Class (Quarterly) Dropdown -->
+            <a class="btn btn-lg btn-primary" data-bs-toggle="collapse" href="#assignmentSettings" role="button"
+                aria-expanded="false" aria-controls="collapseExample">
+                <i class="fa-solid fa-edit"></i> Edit Class (Quarterly)
+            </a>
+            <div class="collapse" id="assignmentSettings">
+                <div class="card card-body">
+                    <form>
+                        <legend>Class Fields</legend>
+                        <div class="mb-3">
+                            <label for="exampleFormControlInput1" class="form-label">Google Sheet URL</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput1"
+                                placeholder="googlesheet.com/url/replace-this">
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleFormControlInput2" class="form-label">Course Code</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput2"
+                                placeholder="PAP-Winter-2023-L2-G2">
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label">Comma Separated List of
+                                Students</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                        <!-- REVIEW: Edit button submit logic -->
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
         </div>
 
         <!-- Assignments And Grades Row -->
         <div id="row">
             <div class="card">
                 <div class="card-header">
-                    <h3>Assignments and Grades
-                        <a data-bs-toggle="collapse" href="#assignmentSettings" role="button" aria-expanded="false"
-                            aria-controls="collapseExample">
-                            <i class="fa-solid fa-pen-to-square text-secondary"></i>
-                        </a>
-                    </h3>
-                    <div class="collapse" id="assignmentSettings">
-                        <div class="card card-body">
-                            <form>
-                                <legend>Assignment & Grade Fields</legend>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Google Sheet URL</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1"
-                                        placeholder="googlesheet.com/url/replace-this">
-                                </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput2" class="form-label">Course Code</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput2"
-                                        placeholder="PAP-Winter-2023-L2-G2">
-                                </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlTextarea1" class="form-label">Comma Separated List of
-                                        Students</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                                </div>
-                                <!-- REVIEW: Edit button submit logic -->
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </form>
-                        </div>
-                    </div>
+                    <h3>Assignments and Grades</h3>
                 </div>
                 <div class="card-body">
-                    <div class="card-title"><a href="#" class="btn btn-primary" id="runGenerateAssignments">Download Assignments</a></div>
-                    <div class="card-title"><a href="#" class="btn btn-primary" id="runCanvasScript">Download Grades</a></div>
+                    <div class="card-title"><a href="#" class="btn btn-primary" id="runGenerateAssignments">Download
+                            Assignments</a></div>
+                    <div class="card-title"><a href="#" class="btn btn-primary" id="runCanvasScript">Download Grades</a>
+                    </div>
                     <!-- TODO: Add logic for run button + Loading spinner to appear / remove on completion -->
 
 
@@ -124,41 +127,7 @@
         <div id="row">
             <div class="card">
                 <div class="card-header">
-                    <h3>Attendance (Zoom)
-                        <a data-bs-toggle="collapse" href="#attendanceSettings" role="button" aria-expanded="false"
-                            aria-controls="collapseExample">
-                            <i class="fa-solid fa-pen-to-square text-secondary"></i>
-                        </a>
-                    </h3>
-                    <div class="collapse" id="attendanceSettings">
-                        <div class="card card-body">
-                            <form>
-                                <legend>Attendance Fields</legend>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Google Sheet URL</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1"
-                                        placeholder="googlesheet.com/url/replace-this">
-                                </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput2" class="form-label">Course Code</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput2"
-                                        placeholder="PAP-Winter-2023-L2-G2">
-                                </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlTextarea1" class="form-label">Comma Separated List of
-                                        Students</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                                </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Quarter</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1"
-                                        placeholder="googlesheet.com/url/replace-this">
-                                </div>
-                                <!-- REVIEW: Edit button submit logic -->
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </form>
-                        </div>
-                    </div>
+                    <h3>Attendance (Zoom)</h3>
                 </div>
                 <div class="card-body row">
                     <div class="col">
@@ -216,7 +185,7 @@
         integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <!-- Custom JS -->
-    <script src="./script.js" ></script>
+    <script src="./script.js"></script>
 </body>
 
 </html>
