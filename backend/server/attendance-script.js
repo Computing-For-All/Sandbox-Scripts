@@ -6,7 +6,7 @@ import PATHS from './paths.js'
 import * as settings from './quarter-settings.js'
 
 // TODO Quarterly update,QUARTER, YEAR, PROGRAM, LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES 
-let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, STUDENTS} = settings.FALL_22
+let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, GRADE_PATH, STUDENTS, SPREADSHEET_ID} = settings.FALL_23
 
 const secretPath = PATHS.ZOOM_KEY
 const spreadsheetId = '10YeTxdb7ae9h2POr4hrygkk-E59uXWrStBSSGpsOdUk'
@@ -19,7 +19,9 @@ const dataEndRow = 1000
 const SINGLE_FILE_MODE = false
 const SINGLE_FILE_NAME = SINGLE_FILE_MODE ? 'test.csv' : ''
 
-function getAttendance(groups) {
+export default function getAttendanceCSV() {
+
+  let groups = STUDENTS
 
   const files = fs.readdirSync(ATTENDANCE_PATH)
 
@@ -28,7 +30,7 @@ function getAttendance(groups) {
 
   files.forEach((file, index) => {
 
-    console.log(file)
+    // console.log(file)
 
     //now loop through each group
 
@@ -57,6 +59,7 @@ function getAttendance(groups) {
 
         let { clockIn, clockOut } = studentData
         
+        //REVIEW - Check if this matches the attendanceV1Correct dynamics excel template
         let rowStr = `${studentKey},${session},${date},${isPresent},${studentKey},${hours},${clockIn},${clockOut}`
 
         // If Tues/Thur(class) add record, else if not class and has hours also add record
@@ -73,7 +76,7 @@ function getAttendance(groups) {
   })
 
 
-  console.log(output)
+  // console.log(output)
 
   fs.writeFileSync(outputPath, output)
   return output
@@ -118,7 +121,7 @@ function appendAttendance(fileName, date, studentsInGroup) {
     let clockOutTime = removeTrailingZeros(row[3].trim())
 
     let duration = row[4]
-    let closestName = mapName(name, studentsInGroup) //todo fix this!!!!! returns null for some reason
+    let closestName = mapName(studentsInGroup, name)
 
     if (closestName == null) return
 
@@ -140,7 +143,7 @@ function appendAttendance(fileName, date, studentsInGroup) {
     map
   }
 }
-
+//SECTION - Calculate ontime or late function
 function getStatus(clockIn) {
 
   let hour = clockIn.substring(0, clockIn.indexOf(":"))
@@ -157,9 +160,3 @@ function getStatus(clockIn) {
   } 
   return "Late"
 }
-
-export default function Attendance() {
-  return getAttendance(STUDENTS)
-} 
-
-Attendance()

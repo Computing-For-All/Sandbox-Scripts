@@ -1,11 +1,103 @@
-export const SUMMER_23 = {
+//TODO - Create new export for new quarter, students are hard-coded
+
+export const FALL_23_SYEP = {
+  QUARTER:'Fall',
+  YEAR : '2023',
+  PROGRAM : 'PAP',
+  LEVELS : ['3','4','LM'],
+  ON_TIME_HOUR : '4',
+  ON_TIME_MINUTES : '15',
+  ATTENDANCE_PATH: './input/fall-23-attendance/',
+  GRADE_PATH: './input/fall-23-grades/',
+  STUDENTS: [
+    [
+      'Benjamin Madrid',
+      'Cynthia Chand',
+      'Fatima Jawara',
+      'Henok Mandefro',
+      'Mozghan Khairandish',
+      'Xiuy Li'
+    ],
+    [
+    'Howard Cheng',
+    'Kevin Tran',
+    ],
+    [
+      'Gordon Tran',
+      'Jian Fu Chen',
+    ]
+  ],
+  SPREADSHEET_ID: '1K-7NaTVRygbOCw0inRv-4137DVvnoqfhgIdN-cVFyXM'
+}
+
+
+
+export const FALL_23 = {
+  QUARTER:'Fall',
+  YEAR : '2023',
+  PROGRAM : 'PAP',
+  LEVELS : ['1','3','4','LM'],
+  ON_TIME_HOUR : '4',
+  ON_TIME_MINUTES : '15',
+  ATTENDANCE_PATH: './input/fall-23-attendance/',
+  GRADE_PATH: './input/fall-23-grades/',
+  STUDENTS: [
+        [
+          'Rodrigo Santacruz',
+          'Collins Nsereko',
+          'Andre Martinez',
+          'Junyu Zhu',
+          'Christina Ellenburg',
+          'Nhat Do',
+          'Dat Phan',
+          'Ali Elfarahaty',
+          'Omar Elfarahaty',
+          'Gian Rosario',
+          'Camryn Lee'
+        ],
+        [
+          "Xiuyi Li",
+          "DjoDjo Kamili",
+          "Mozhgan Khairandish",
+          "Cynthia Chand",
+          "Henok Mandefro",
+          "Samantha Treacy",
+          "Benjamin Madrid",
+          "Fatima jawara",
+          "Timothy Hoang",
+          "Regina Lin",
+          "Cindy Nguyen",
+          "Tanya Jain",
+          "Hiya Mehta",
+          "Kinza Anwar"
+        ],
+        [
+          "Imara Wangia",
+          "Rajbir Sandhu",
+          "Kevin Tran",
+          "Rameez Hussain",
+          "Aayan Muhammad",
+          "Howard Cheng"
+        ],
+        [
+          "Nikolai Evans",
+          "Gordon Tran",
+          "Jian Fu Chen"
+        ]
+      ],
+      SPREADSHEET_ID: '1CBNygjKuONPWQj6qwfpfDxIcqT9xKtDLqK-Aoa5laH4',
+    }
+
+
+    export const SUMMER_23 = {
     QUARTER:'Summer',
     YEAR : '2023',
     PROGRAM : 'PAP',
     LEVELS : ['1,-2','2-3','5-6','LM'],
     ON_TIME_HOUR : '12',
     ON_TIME_MINUTES : '00',
-    ATTENDANCE_PATH: './input/summer-23-attendance',
+    ATTENDANCE_PATH: './input/summer-23-attendance/',
+    GRADE_PATH: './input/summer-23-grades/',
     STUDENTS: [
           [
             'Abdisalam Kadir',
@@ -56,9 +148,8 @@ export const SUMMER_23 = {
             'Tao Hoang',
             'Damien Cruz',
           ]
-        ]
+        ],
 }
-
 export const SPRING_23 = {
     QUARTER: 'Spring',
     YEAR : '2023',
@@ -66,7 +157,8 @@ export const SPRING_23 = {
     LEVELS : [6,4,1],
     ON_TIME_HOUR : '4',
     ON_TIME_MINUTES : '15',
-    ATTENDANCE_PATH: './input/spring-23-attendance',
+    ATTENDANCE_PATH: './input/spring-23-attendance/',
+    GRADE_PATH: './input/spring-23-grades/',
     STUDENTS: [
         [
           'Aayan Muhammad',
@@ -115,7 +207,8 @@ export const WINTER_22 = {
     LEVELS : [2,3,5],
     ON_TIME_HOUR : '4',
     ON_TIME_MINUTES : '15',
-    ATTENDANCE_PATH: './input/winter-22-attendance',
+    ATTENDANCE_PATH: './input/winter-22-attendance/',
+    GRADE_PATH: './input/winter-22-grades/',
     STUDENTS: [
         [
           'Halie Le',
@@ -156,7 +249,8 @@ export const FALL_22 = {
     LEVELS : [1,2,4],
     ON_TIME_HOUR : '4',
     ON_TIME_MINUTES : '15',
-    ATTENDANCE_PATH: './input/fall-22-attendance',
+    ATTENDANCE_PATH: './input/fall-22-attendance/',
+    GRADE_PATH: './input/fall-22-grades/',
     STUDENTS: [
         [ 'Hoang Le', 'Jonathan Steshuk', 'Nguyen Tran', 'Hara Ament' ],
         [
@@ -194,7 +288,8 @@ export const SUMMER_22 = {
     LEVELS : [1,2,4],
     ON_TIME_HOUR : '12',
     ON_TIME_MINUTES : '30',
-    ATTENDANCE_PATH: './input/summer-22-attendance',
+    ATTENDANCE_PATH: './input/summer-22-attendance/',
+    GRADE_PATH: './input/summer-22-grades/',
     STUDENTS: [
         [
             'Rayaan Ahmed',

@@ -55,13 +55,13 @@
                 data.<br />Once parsed the output will need to be downloaded then uploaded to
                 Higher Ed.</p>
             <a class="btn btn-lg btn-primary"
-                href="https://org8690eba6.crm.dynamics.com/main.aspx?appid=321428ab-20a8-ea11-a813-000d3a569a27&pagetype=entitylist&etn=contact&viewid=ae88af10-95cc-e811-a96b-000d3a1c5716&viewType=1039"
-                target="_blank" button"><i class="fa-solid fa-database"></i> Higher Ed DB</a>
+                href="https://cfahelpdesksandbox.crm.dynamics.com/main.aspx?appid=4fdc49ee-ddae-eb11-8236-000d3a5b030a&newWindow=true&pagetype=dashboard&id=551a3d81-8424-ed11-b83e-000d3a8ce2e3&type=system&_canOverride=true"
+                target="_blank"><i class="fa-solid fa-database"></i> Higher Ed DB</a>
             <a class="btn btn-lg btn-primary"
                 href="https://drive.google.com/drive/u/1/folders/1mrOMhVzuy6LxxXK011BHeHXYPBI9eWCi" target="_blank"
-                button"><i class="fa-brands fa-google-drive"></i> Higher Ed Docs</a>
+                ><i class="fa-brands fa-google-drive"></i> Higher Ed Docs</a>
             <a class="btn btn-lg btn-primary" href="https://us02web.zoom.us/account/report/user" target="_blank"
-                button"><i class="fa-solid fa-video"></i> Zoom Data</a>
+                ><i class="fa-solid fa-video"></i> Zoom Data</a>
         </div>
 
         <!-- Assignments And Grades Row -->
@@ -100,8 +100,8 @@
                     </div>
                 </div>
                 <div class="card-body text-center">
-                    <h5 class="card-title"><a href="#" class="btn btn-primary" id="runCanvasScript">Run</a> GET Request to retrieve data,
-                        then parse data to output file.</h5>
+                    <div class="card-title"><a href="#" class="btn btn-primary" id="runGenerateAssignments">Download Assignments</a></div>
+                    <div class="card-title"><a href="#" class="btn btn-primary" id="runCanvasScript">Download Grades</a></div>
                     <!-- TODO: Add logic for run button + Loading spinner to appear / remove on completion -->
 
 
@@ -114,9 +114,9 @@
                 </div>
 
                 <!-- TODO: Add logic for download button -->
-                <div class="card-footer text-end">
-                    <h3><i class="fa-solid fa-download text-primary"></i></h3>
-                </div>
+                <!-- <div class="card-footer text-end">
+                    <a id="grades-btn"><i class="fa-solid fa-download text-primary"></i></a>
+                </div> -->
             </div>
         </div>
 
@@ -182,9 +182,8 @@
                     </div>
                     <div class="col">
                         <!-- TODO: Add logic for run buttons/dropdown? -->
-                        <a href="#" class="btn btn-primary" id="runSpreadsheetScript">Run Spreadsheets</a> <br />
-                        <a href="#" class="btn btn-primary" id="runSyepScript">Run SYEP</a>
-
+                        <a href="#" class="btn btn-primary" id="runAttendanceLogger">Run Attendance Logger</a> <br />
+                        <a href="#" class="btn btn-primary" id="runGenerateAttendance">Download Attendance</a> <br />
                         <div class="dropdown">
                             <a class="btn btn-outline-secondary dropdown-toggle" href="#" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false">
@@ -199,7 +198,7 @@
                     </div>
                 </div>
                 <div class="card-footer text-end">
-                    <h3><i class="fa-solid fa-download text-primary"></i></h3>
+                    <a><i class="fa-solid fa-download text-primary"></i></a>
                 </div>
             </div>
         </div>
@@ -217,7 +216,7 @@
         integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <!-- Custom JS -->
-    <script src="./script.js"></script>
+    <script src="./script.js" ></script>
 </body>
 
 </html>
