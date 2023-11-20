@@ -79,12 +79,14 @@ async function serverTest() {
 
 $(document).ready(async function() {
 
-  // Runs the Canvas Script + shows loading indicator while awaiting
+  // Runs the Grades downloader + shows loading indicator while awaiting
   $("#runCanvasScript").click(async function(evt) {
     evt.preventDefault();
     console.log("run canvas clicked");
     $("#gradeLoading").addClass('visible').removeClass('invisible');
+
     window.location = 'http://localhost:5000/generate/grades/xlsx';
+
     $("#gradeLoading").removeClass('visible').addClass('invisible');
     // let metaData = await axios.post('http://localhost:5000/generate/grades/xlsx');
     // $("#gradeLoading").removeClass('visible').addClass('invisible');
@@ -93,27 +95,40 @@ $(document).ready(async function() {
     // const csvdata = csvmaker(metaData.data[0]);
     // download(csvdata);
   });
+
+  
+  // Runs the Assignments downloader + shows loading indicator while awaiting
+  $("#runGenerateAssignments").click(async function(evt) {
+    evt.preventDefault();
+    console.log("run canvas clicked");
+    $("#gradeLoading").addClass('visible').removeClass('invisible');
+
+    window.location = 'http://localhost:5000/generate/assignments/xlsx';
+
+    $("#gradeLoading").removeClass('visible').addClass('invisible');
+  });
+
   // $(".fa-download").click(async function() { 
 
   // });
   
   // 
-  $("#attendanceUpload").click(function() {
+  $("#runGenerateAttendance").click(function(evt) {
     // Add logic to upload selected files -> store to local storage 
     // -> parses file -> hit run spreadsheet
+    evt.preventDefault();
+    // $("#gradeLoading").addClass('visible').removeClass('invisible');
+
+    window.location = 'http://localhost:5000/generate/attendance/xlsx';
+
+    // $("#gradeLoading").removeClass('visible').addClass('invisible');
     console.log("upload clicked");
   });
   
   // Runs Zoom script spreadsheet uses attendance folder to output attendance csv -> sends request to server with config files
   // TODO: Needs to use upload files in the future
-  $("#runSpreadsheetScript").click(function() {
+  $("#runAttendanceLogger").click(function() {
+    axios.post('http://localhost:5000/run/attendance-spreadsheet')
     console.log("run spreadsheet clicked");
-    axios.post('http://localhost:5000/run/attendance')
-  });
-  
-  // 
-  $("#runSyepScript").click(function() {
-    axios.post('http://localhost:5000/test');
-    console.log("run syep clicked");
   });
 });

@@ -4,7 +4,6 @@ import path from 'path'
 
 
 export default function GenerateAssignmentsXLSX(rowsData, filename = 'Assignments Excel Spreadsheet') {
-
   // Create a new instance of a Workbook class
   const wb = new xl.Workbook();
   

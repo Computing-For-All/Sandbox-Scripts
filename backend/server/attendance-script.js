@@ -19,7 +19,9 @@ const dataEndRow = 1000
 const SINGLE_FILE_MODE = false
 const SINGLE_FILE_NAME = SINGLE_FILE_MODE ? 'test.csv' : ''
 
-function getAttendance(groups) {
+export default function getAttendanceCSV() {
+
+  let groups = STUDENTS
 
   const files = fs.readdirSync(ATTENDANCE_PATH)
 
@@ -28,7 +30,7 @@ function getAttendance(groups) {
 
   files.forEach((file, index) => {
 
-    console.log(file)
+    // console.log(file)
 
     //now loop through each group
 
@@ -74,7 +76,7 @@ function getAttendance(groups) {
   })
 
 
-  console.log(output)
+  // console.log(output)
 
   fs.writeFileSync(outputPath, output)
   return output
@@ -158,9 +160,3 @@ function getStatus(clockIn) {
   } 
   return "Late"
 }
-
-export default function Attendance() {
-  return getAttendance(STUDENTS)
-} 
-
-Attendance()

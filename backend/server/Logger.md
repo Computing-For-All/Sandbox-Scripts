@@ -26,4 +26,4 @@ Logger.js is meant to take zoom attendance data in the form of csv files and upl
 
 ### DISCLAIMER : If the student hours is wrong it's most likely for these reason:
 1. They joined in the zoom with the wrong/different name (check inside of utils.js to adjust for it)
-2. If you're running the script the same day as a class day but don't have that day's attendence data, it will assume they all missed today's hours //NEEDS TO BE VERIED
+2. If you're running the script the same day as a class day but don't have that day's attendence data, it will assume they all missed today's hours

@@ -191,7 +191,7 @@ export default function GenerateGradesXLSX(rowsData, filename = 'Grades Excel Sp
   }
   
   
-  const filepath = './' + filename + '.xlsx';
+  const filepath = './output/generated/' + filename + '.xlsx';
   try {
     wb.write(filepath);
     return path.resolve(filepath);
