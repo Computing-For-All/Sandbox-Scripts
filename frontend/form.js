@@ -1,9 +1,10 @@
 // NOTE: This could be migrated to script.js, but placed here temporarily for compartmentalization of scripts
 let form = document.querySelector('#editForm');
+let submit = document.querySelector('#submitBtn');
+
 let levels = document.querySelectorAll('#classLevels');
 let button = document.querySelector('#generateButton');
 let content = document.querySelector('#generatedLevels');
-let submit = document.querySelector('#submitBtn');
 
 let levelsArray = [];
 
@@ -11,7 +12,6 @@ let levelsArray = [];
 function generateLevels(e) {
     e.preventDefault();
     levelsArray = levels[0].value.split(',');
-    console.log(levelsArray);
 
     content.innerHTML = '';
     for(let i = 0; i < levelsArray.length; i++) {
@@ -25,4 +25,4 @@ function generateLevels(e) {
 
 button.addEventListener('click', generateLevels);
 
-// TODO: Submit button logic not made, this may be best to incorporate with the script.js for output
+// TODO: Form/Submit logic not made, this may be best to incorporate with the script.js for output
