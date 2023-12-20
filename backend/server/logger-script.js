@@ -8,7 +8,7 @@ import {mapName} from './utils/utils.js'
 let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, GRADE_PATH, STUDENTS, SPREADSHEET_ID} = settings.FALL_23
 
 //SECTION - ALL THIS SHOULD BE FALSE WHEN NOT TESTING
-const DO_NOT_EDIT_MODE = true
+const DO_NOT_EDIT_MODE = false
 const TEST_MODE = false
 const SINGLE_FILE_MODE = false
 
@@ -258,3 +258,4 @@ export default async function runLogger() {
         }
     }
 }
+runLogger()

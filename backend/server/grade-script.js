@@ -15,12 +15,11 @@ const secretPath = PATHS.ZOOM_KEY
 const sheetPrefix = 'Group'
 const gradeOutput = PATHS.OUTPUT_PATH
 
-let {QUARTER, YEAR, PROGRAM , LEVELS, ON_TIME_HOUR, ON_TIME_MINUTES, ATTENDANCE_PATH, GRADE_PATH, STUDENTS, SPREADSHEET_ID} = settings.FALL_23
-
+let quarterSettings = settings.FALL_23
 
 //analyze the spreadsheet 
 async function readCSV(csvFileName) {
-    let unparsedStudentsList = STUDENTS
+    let unparsedStudentsList = quarterSettings.STUDENTS
 
     let students = getStudentsFromGroupList(unparsedStudentsList)
 
@@ -37,11 +36,11 @@ async function readCSV(csvFileName) {
 } 
 
 export async function getGradesCSV() {
-    
+
     let gradesOutput = ''
     let assignmentsOutput = '' 
 
-    const files = fs.readdirSync(GRADE_PATH)
+    const files = fs.readdirSync(quarterSettings.GRADE_PATH)
     for(let i = 0; i < files.length; i++) {
         
         let file = files[i]
@@ -49,7 +48,7 @@ export async function getGradesCSV() {
         //NOTE - used for debugging. Please comment out this line when not in use!!!!
         //if(i !== 0) continue
         
-        let data = await readCSV(GRADE_PATH+file)
+        let data = await readCSV(quarterSettings.GRADE_PATH+file)
       
 
 
@@ -61,12 +60,11 @@ export async function getGradesCSV() {
     // console.log(gradesOutput)
 
     //NOTE - used for debugging. Please comment out this line when not in use!!!!
-    fs.writeFileSync(gradeOutput+"/assignment.csv", assignmentsOutput)
-    fs.writeFileSync(gradeOutput+"/grades.csv", gradesOutput)
+    //fs.writeFileSync(gradeOutput+"/assignment.csv", assignmentsOutput)
+    //fs.writeFileSync(gradeOutput+"/grades.csv", gradesOutput)
 
     return [gradesOutput, assignmentsOutput]
 }
-getGradesCSV()
 export default getGradesCSV
 
 //NOTE - used for debugging. Please comment out this line when not in use!!!!
@@ -85,6 +83,7 @@ function getStudentsFromGroupList(unparsedStudentsList) {
 }
   
 function appendAssignments(fileName) {
+
 
     const data = csv.parse(fs.readFileSync(fileName, 'utf-8'))
 
@@ -129,6 +128,7 @@ function appendAssignments(fileName) {
 function appendGrades(fileName, students) {
 
     let output = ""
+    console.log(fileName)
 
     const data = csv.parse(fs.readFileSync(fileName, 'utf-8'))
     const session = fileName.replace('.csv', '').substring(fileName.indexOf('PAP'))
@@ -175,3 +175,27 @@ function parseNameFromCSV(name) {
     }
     return first
 }
+
+async function getGradesFromAllQuarters() {
+    let quarters =[]
+    // quarters.push(settings.SUMMER_22)
+    // quarters.push(settings.FALL_22)
+    // quarters.push(settings.WINTER_22)
+    // quarters.push(settings.SPRING_23)
+    // quarters.push(settings.SUMMER_23)
+    quarters.push(settings.FALL_23)
+
+    let allGrades = ''
+    let allAssignments = ''
+    await quarters.forEach(async (quarter) => {
+        quarterSettings = quarter
+        let gradeData = await getGradesCSV()
+        allGrades += gradeData[0]
+        allAssignments += gradeData[1]
+    })
+
+    fs.writeFileSync('output/grades.csv', allGrades)
+    fs.writeFileSync('output/assignments.csv', allAssignments)
+}
+
+await getGradesFromAllQuarters()

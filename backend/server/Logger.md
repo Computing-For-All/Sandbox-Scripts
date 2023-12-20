@@ -1,3 +1,4 @@
+
 # Logger.js
 
 ## Purpose

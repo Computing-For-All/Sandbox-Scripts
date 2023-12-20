@@ -1,4 +1,7 @@
 //TODO - Create new export for new quarter, students are hard-coded
+export const FALL_24 = {
+
+}
 
 export const FALL_23_SYEP = {
   QUARTER:'Fall',
@@ -16,7 +19,7 @@ export const FALL_23_SYEP = {
       'Fatima Jawara',
       'Henok Mandefro',
       'Mozghan Khairandish',
-      'Xiuy Li'
+      'Xiuyi Li'
     ],
     [
     'Howard Cheng',

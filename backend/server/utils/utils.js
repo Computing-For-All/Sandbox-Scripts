@@ -32,7 +32,7 @@ export function mapName(names, csvName) {
   names?.forEach((sheetName, index) => {
     let cleanedSheetFullName = sheetName.toLowerCase().split(" ");
     let cleanedCsvFullName = cleanCsvName(csvName).split(" ");
-    
+    // console.log(cleanedCsvFullName[0])
     if (cleanedCsvFullName[0] == cleanedSheetFullName[0]) {
       matchingSheetName = sheetName;
     }
@@ -47,6 +47,9 @@ export function mapName(names, csvName) {
 
     if (cleanedCsvFullName[0] == "john") {
       matchingSheetName = "Jonathan Steshuk";
+    }
+    if (cleanedCsvFullName[0] == "Ben Madrid" || cleanedCsvFullName[0] == "Ben") {
+      matchingSheetName = "Benjamin Madrid";
     }
 
     if (cleanedCsvFullName[0] == "hoàng" && cleanedCsvFullName[1] == "bảo") {
@@ -69,6 +72,12 @@ export function mapName(names, csvName) {
       matchingSheetName = "Xiuyi Li";
     }
     if (cleanedCsvFullName[0] === "xiuyili (justin)") {
+      matchingSheetName = "Xiuyi Li";
+    }
+    if (cleanedCsvFullName[0] === "xiuyili") {
+      matchingSheetName = "Xiuyi Li";
+    }
+    if (cleanedCsvFullName[0] === "xiuyi") {
       matchingSheetName = "Xiuyi Li";
     }
     if (cleanedCsvFullName[0] === "justin") {
